@@ -15,7 +15,7 @@ A隐藏B不隐藏 出现返回的时候导航栏消失的bug
     [super viewWillDisappear:animated];
     [self.navigationController setNavigationBarHidden:NO animated:YES];
 }
-
+2.HJSegMentView  -- 个人中心类型
 
 
 
